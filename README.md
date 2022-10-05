@@ -1,4 +1,4 @@
-# Gentle Introduction To HTML
+# Gentle Introduction To HTML for Beginners
 Files for the "Gentle Introduction to HTML for Beginners" course.
 
 Links to the courses in this series:
