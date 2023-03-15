@@ -1,6 +1,8 @@
 # Gentle Introduction To HTML for Beginners
 Files for the "Gentle Introduction to HTML for Beginners" course.
 
+**If you would like to use this repository in your own work, please fork it before cloning or committing to it. Thanks!**
+
 Links to the courses in this "How to Become a Web Developer" series (YouTube):
 
 ["Gentle Introduction to Programming for Beginners"](https://www.youtube.com/playlist?list=PLErOmyzRKOCrO9bwM1931IY8S3iWfhrr8)
