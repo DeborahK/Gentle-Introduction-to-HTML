@@ -1,5 +1,5 @@
-# Gentle Introduction To HTML for Beginners
-Files for the "Gentle Introduction to HTML for Beginners" course.
+# Gentle Introduction To HTML
+Files for the "Gentle Introduction to HTML" course.
 
 **If you would like to use this repository in your own work, please fork it before cloning or committing to it. Thanks!**
 
